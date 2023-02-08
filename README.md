@@ -21,12 +21,12 @@ Hi there! I'm a software developer engineer with a passion for Python and Django
 
 ## About Me
 
-I have a strong background in software development and a deep appreciation for the power of technology to make the world a better place. I have a strong interest in web development, especially using the Django framework, and I enjoy working on projects that challenge me and push me to learn new things.
+I have a strong background in software development and a deep appreciation for the power of technology to make the world a better place. I have a strong interest in backend web development, especially using the Django framework, and I enjoy working on projects that challenge me and push me to learn new things.
 
 ## My Skills
 
-+ Proficient in Python and Django
++ Proficient in Python, Django, Flask and FastAPI
 + Experience with HTML, CSS, and JavaScript
 + Knowledge of databases (SQL and NoSQL)
-+ Familiarity with Git and version control
++ Familiarity with Git and version control systems (GitHub, BitBucket, GitLab)
 + Good understanding of algorithms and data structures
