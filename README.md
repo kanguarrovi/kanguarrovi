@@ -25,8 +25,9 @@ I have a strong background in software development and a deep appreciation for t
 
 ## My Skills
 
-+ Proficient in Python, Django, Flask and FastAPI (Currently learning Rust)
++ Proficient in Python, Django, Flask and FastAPI
 + Experience with HTML, CSS, and JavaScript
++ Currently learning Rust
 + Knowledge of databases (SQL and NoSQL)
 + Familiarity with Git and version control systems (GitHub, BitBucket, GitLab)
 + Good understanding of algorithms and data structures
